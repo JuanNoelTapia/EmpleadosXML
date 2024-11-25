@@ -1,0 +1,32 @@
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\bin\Debug\net8.0-windows\EmpleadosXML.exe
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\bin\Debug\net8.0-windows\EmpleadosXML.deps.json
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\bin\Debug\net8.0-windows\EmpleadosXML.runtimeconfig.json
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\bin\Debug\net8.0-windows\EmpleadosXML.dll
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\bin\Debug\net8.0-windows\EmpleadosXML.pdb
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.Form1.resources
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.dll
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\refint\EmpleadosXML.dll
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.pdb
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\ref\EmpleadosXML.dll
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\bin\Debug\net8.0-windows\EmpleadosXML.exe
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\bin\Debug\net8.0-windows\EmpleadosXML.deps.json
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\bin\Debug\net8.0-windows\EmpleadosXML.runtimeconfig.json
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\bin\Debug\net8.0-windows\EmpleadosXML.dll
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\bin\Debug\net8.0-windows\EmpleadosXML.pdb
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.Form1.resources
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.AssemblyInfo.cs
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.dll
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\refint\EmpleadosXML.dll
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.pdb
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\EmpleadosXML.genruntimeconfig.cache
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE XML\EmpleadosXML\EmpleadosXML\obj\Debug\net8.0-windows\ref\EmpleadosXML.dll

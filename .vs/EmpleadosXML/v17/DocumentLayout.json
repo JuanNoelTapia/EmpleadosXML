@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Escritorio\\EmpleadosXML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE208C-F495-43B9-A3F5-670561581EDC}|EmpleadosXML\\EmpleadosXML.csproj|c:\\users\\dell\\onedrive\\escritorio\\empleadosxml\\empleadosxml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFE208C-F495-43B9-A3F5-670561581EDC}|EmpleadosXML\\EmpleadosXML.csproj|solutionrelative:empleadosxml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE208C-F495-43B9-A3F5-670561581EDC}|EmpleadosXML\\EmpleadosXML.csproj|c:\\users\\dell\\onedrive\\escritorio\\empleadosxml\\empleadosxml\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFE208C-F495-43B9-A3F5-670561581EDC}|EmpleadosXML\\EmpleadosXML.csproj|solutionrelative:empleadosxml\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE208C-F495-43B9-A3F5-670561581EDC}|EmpleadosXML\\EmpleadosXML.csproj|c:\\users\\dell\\onedrive\\escritorio\\empleadosxml\\empleadosxml\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFE208C-F495-43B9-A3F5-670561581EDC}|EmpleadosXML\\EmpleadosXML.csproj|solutionrelative:empleadosxml\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE208C-F495-43B9-A3F5-670561581EDC}|EmpleadosXML\\EmpleadosXML.csproj|C:\\Users\\Dell\\OneDrive\\Escritorio\\EmpleadosXML\\EmpleadosXML\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DFE208C-F495-43B9-A3F5-670561581EDC}|EmpleadosXML\\EmpleadosXML.csproj|solutionrelative:EmpleadosXML\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\EmpleadosXML\\EmpleadosXML\\Form1.cs",
+              "RelativeDocumentMoniker": "EmpleadosXML\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\EmpleadosXML\\EmpleadosXML\\Form1.cs",
+              "RelativeToolTip": "EmpleadosXML\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T06:19:41.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Xml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\EmpleadosXML\\EmpleadosXML\\Xml.cs",
+              "RelativeDocumentMoniker": "EmpleadosXML\\Xml.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\EmpleadosXML\\EmpleadosXML\\Xml.cs",
+              "RelativeToolTip": "EmpleadosXML\\Xml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T06:10:05.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\EmpleadosXML\\EmpleadosXML\\Empleado.cs",
+              "RelativeDocumentMoniker": "EmpleadosXML\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Escritorio\\EmpleadosXML\\EmpleadosXML\\Empleado.cs",
+              "RelativeToolTip": "EmpleadosXML\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T06:07:24.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Escritorio\\EmpleadosXML\\EmpleadosXML\\Form1.cs",
+              "RelativeDocumentMoniker": "EmpleadosXML\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\USOS DE DE JSON y XML EN C#\\USOS DE DE JSON y XML EN C#\\USO DE XML\\EmpleadosXML\\EmpleadosXML\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\USOS DE DE JSON y XML EN C#\\USOS DE DE JSON y XML EN C#\\USO DE XML\\EmpleadosXML\\EmpleadosXML\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T06:06:48.558Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
